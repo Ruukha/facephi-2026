@@ -1,0 +1,1 @@
+Repository for the Facephi Challenge 2026, where we need to use an OCR to identify and verify the info in an Spanish ID card
